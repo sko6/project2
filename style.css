@@ -27,3 +27,34 @@ li a:hover {
     background-color: #000080;
 }
 
+
+h1  {
+    font-family: 'Yrsa';
+    color: #00008B;
+    text-align: left;
+    }
+
+h2  {
+    font-family: 'Yrsa';
+    color: #00008B;
+    text-align: left;
+}
+
+h3  {
+    font-family: 'Yrsa';
+    color: #00008B;
+    text-align: left;
+}
+
+h6  {
+    font-family: 'Roboto';
+    color: #000000;
+    text-align: left;
+}
+
+p  {
+    font-family: 'Roboto';
+    color: #000000;
+font-size: 16px;
+text-align: left;
+    }
