@@ -57,33 +57,11 @@ p  {
     color: #000000;
     font-size: 16px;
     text-align: left;
-    }
-
-img.responsiveimage { 
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    opacity: 0.5;
-    filter: alpha(opacity=50);
-  }
-
-.container {
-    position: relative;
 }
 
-.center {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-size: 18px;
-}
-
-.profileimage img{
-    width: 60%;
-    height: auto;
-    float: right;
-    
+.firstpage  {
+  background-image:url('hepatitis.jpg');
+  background-size:cover;
 }
 
 
