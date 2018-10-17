@@ -34,6 +34,11 @@ h1  {
     text-align: left;
     }
 
+#firsth1  {
+    font-family: 'Yrsa';
+    color: #00008B;
+    text-align: left;
+    }
 h2  {
     font-family: 'Yrsa';
     color: #00008B;
@@ -70,7 +75,7 @@ p  {
     transform: translate(-50%, -50%);
 }
 
-img.container { 
+#firstimg { 
     width: 100%;
     height: auto;
     opacity: 0.7;
