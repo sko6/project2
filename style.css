@@ -79,3 +79,11 @@ img.responsiveimage {
     font-size: 18px;
 }
 
+.profileimage img{
+    width: 60%;
+    height: auto;
+    float: right;
+    
+}
+
+
