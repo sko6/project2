@@ -1,0 +1,62 @@
+body {
+    background-image: url("wave.jpg");
+    background-color: #FFFAF0;
+    background-size: cover;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;	
+    overflow: hidden;
+    background-color: #191970;
+}
+
+li {
+       float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #000080;
+}
+
+h1  {
+    font-family: 'Cabin Sketch';
+    color: #00008B;
+    text-align: left;
+    }
+
+h2  {
+    font-family: 'Amaranth';
+    color: #00008B;
+    text-align: left;
+}
+
+h3  {
+    font-family: 'Amaranth';
+    color: #00008B;
+    text-align: left;
+}
+
+h6  {
+    font-family: 'Yrsa';
+    color: #000000;
+    text-align: left;
+}
+
+p  {
+    font-family: 'Yrsa';
+    color: #000000;
+    font-size: 16px;
+    text-align: left;
+}
+
