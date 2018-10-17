@@ -4,7 +4,7 @@ body {
 }
 
 
-ul.#navi {
+ul {
     list-style-type: none;
     margin: 0;
     padding: 0;	
@@ -12,11 +12,11 @@ ul.#navi {
     background-color: #191970;
 }
 
-li.#navi {
+li {
        float: left;
 }
 
-li a.#navi {
+li a {
     display: block;
     color: white;
     text-align: center;
@@ -24,7 +24,7 @@ li a.#navi {
     text-decoration: none;
 }
 
-li a:hover.#navi {
+li a:hover {
     background-color: #000080;
 }
 
