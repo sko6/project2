@@ -60,21 +60,3 @@ p  {
     text-align: left;
 }
 
-.content {
-    float: right;
-    padding: 20px;
-    width: 60%;
-    height: 20px;
-}
-
-.side {
-    float: right;
-    width: 40%;
-    height: 300px
-    padding: 20px;
-}    
-
-img.side {
-    width: 100%;
-    height: auto;
-}
