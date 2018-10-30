@@ -9,7 +9,7 @@ ul {
     margin: 0;
     padding: 0;	
     overflow: hidden;
-    background-color: #333399;
+    background-color: transparent;
     position: fixed;
     top: 0;
     width: 30%;
@@ -18,7 +18,7 @@ ul {
 
 li a {
     display: block;
-    color: white;
+    color: #86b300;
     text-align: right;
     padding: 14px 16px;
     text-decoration: none;
