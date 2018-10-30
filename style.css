@@ -9,16 +9,16 @@ ul {
     margin: 0;
     padding: 0;	
     overflow: hidden;
-    background-color: #191970;
+    background-color: transparent;
     position: sticky;
-    top: 2;
+    top: 0;
 }
 
 
 li a {
     display: block;
     color: white;
-    text-align: center;
+    text-align: right;
     padding: 14px 16px;
     text-decoration: none;
 }
