@@ -60,3 +60,10 @@ p  {
     text-align: left;
 }
 
+.profile img {
+width: 70%;
+  height: auto;
+  float: right;
+  margin: 10px;
+ 
+}
