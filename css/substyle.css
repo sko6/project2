@@ -1,7 +1,7 @@
 body {
     background-image: url(../image/bk.jpg);
     background-color: #8FBC8F;
-    background-size: repeat;
+    background-size: cover;
 }
 
 
