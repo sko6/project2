@@ -1,6 +1,5 @@
-/*
 body {
-    background-image: url("project2/image/bk.jpg");
+    background-image: url('project2/image/bk.jpg');
     
     background-size: cover;
 }
@@ -68,4 +67,3 @@ p  {
   margin: 10px;
  
 }
-*/
