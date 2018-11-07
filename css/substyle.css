@@ -1,7 +1,7 @@
-body {
-    background-image: url(image/1100.png);
+.bg-image {
+    background-image: url('project2/image/1100.png');
     
-    background-size: cover;
+    background-size: repeat;
 }
 
 
