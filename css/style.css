@@ -138,19 +138,14 @@ p  {
     text-align: center;
 }
 
-#profile img {
-    width: 39%;
+.profile img {
+    width: 40%;
     height: 300px;
     float: right;
     margin: 10px;
  
 }
 .contents {
-    width: 55%;
-    margin-right: 5%;
-    float: left:
-}
-.spare {
-    width:40%;
-    float:left;
+    width: 80%;
+    float: right:
 }
