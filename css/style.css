@@ -28,6 +28,9 @@ font-family: 'Chewy';
    background:transparent;
    overflow:hidden;
    position:relative;
+   margin-left: auto;
+   margin-right: auto;
+   margin-bottom: 30px;
 }
 #navi2 ul {
    clear:left;
