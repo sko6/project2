@@ -27,38 +27,6 @@ font-family: 'Chewy';
     color: #00008B;
     text-align: center;
 }
-#navi ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;	
-    overflow: hidden;
-    background-color: #006699;
-    width:100%
-    clear:left;
-    float:left;
-    position:relative;
-    left:50%;
-    text-align:center;    
-}
-#navi li {
-    float: left;
-    display:block;
-    list-style:none;
-    margin:0;
-    padding:0;
-    position:relative;
-    right:50%;
-}
-#navi li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-#navi li a:hover {
-    background-color: #000080;
-}
 #navi2 {
    float:left;
    width:100%;
@@ -95,8 +63,8 @@ font-family: 'Chewy';
    line-height:1.3em;
 }
 #navi2 ul li a:hover {
-   background:#000080;
-   color:#fff;
+   background:#483D8B;
+   color:#5F9EA0;
 }
 
 #firsth1  {
