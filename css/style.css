@@ -2,85 +2,124 @@
 body {
     background-color: #FFFAF0;
 }
-
-
-ul {
-    list-style-type: none;
+#body2 {
+    background-image: url(../image/bk.jpg);
+    background-color: #8FBC8F;
+    background-size: cover;
+}
+#AMheader{
+font-family: 'Chewy';
+    color: #00008B;
+    text-align: center;
+}
+#Mheader{
+font-family: 'Chewy';
+    color: #00008B;
+    text-align: center;
+}
+#Oheader{
+font-family: 'Chewy';
+    color: #00008B;
+    text-align: center;
+}
+#navi {
+    float:left;
+    width:100%;
+    position:fixed;
+    overflow:hidden;
+    background-color:transparent;
+}
+#navi ul {
+    clear:left;
+    float:left;
+    list-style:none;
     margin: 0;
     padding: 0;	
-    overflow: hidden;
-    background-color: transparent;
-    position: fixed;
+    background-color:transparent;
     top: 0;
-    width: 15%;
+    position:relative;
+    left:50%;
+    text-align:center;
 }
-
-
-li a {
+#navi ul li {
+    display:block;
+    float:left;
+    margin:0;
+    padding:0;
+    position: relative;
+    right:50%;
+    
+#navi ul li a {
     display: block;
     color: white;
     font-family: 'Mali';
-    text-align: right;
     padding: 14px 16px;
     text-decoration: none;
 }
-
-li a:hover {
+#navi ul li a:hover {
     background-color: #006699;
 }
-
-h1  {
-    font-family: 'Yrsa';
-    color: #00008B;
-    text-align: left;
-    }
-
 #firsth1  {
     font-family: 'Mali';
     color: #00008B;
     font-size: 30px;
     }
-
-h2  {
-    font-family: 'Yrsa';
-    color: #00008B;
-    text-align: left;
-}
-
-h3  {
-    font-family: 'Yrsa';
-    color: #00008B;
-    text-align: left;
-}
-
-h6  {
-    font-family: 'Kalam';
-    color: #000000;
-    text-align: left;
-}
-
-p  {
+#p101  {
     font-family: 'Kalam';
     color: #000000;
     font-size: 1.5em;
     text-align: left;
-}
-
+}    
 .container {
     position: relative;
 }
-
 .center {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
-
 #firstimg { 
     width: 100%;
     height: auto;
     opacity: 0.7;
 }
+h1  {
+    font-family: 'Chewy';
+    color: #00008B;
+    text-align: center;
+    }
 
+h2  {
+    font-family: 'Amaranth';
+    color: #00008B;
+    text-align: center;
+}
+
+h3  {
+    font-family: 'Amaranth';
+    color: #00008B;
+    text-align: center;
+}
+
+h6  {
+    font-family: 'Yrsa';
+    color: #000000;
+    text-align: center;
+}
+
+p  {
+    font-family: 'Kalam';
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+}
+
+.profile img {
+  width: 40%;
+  height: 300px;
+  float: right;
+  margin: 10px;
+ 
+}
 
