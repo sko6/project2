@@ -7,6 +7,11 @@ body {
     background-color: #8FBC8F;
     background-size: cover;
 }
+#Hheader{
+    font-family: 'Chewy';
+    color: #00008B;
+    text-align: center;
+}
 #AMheader{
 font-family: 'Chewy';
     color: #00008B;
@@ -22,49 +27,8 @@ font-family: 'Chewy';
     color: #00008B;
     text-align: center;
 }
-#navi ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;	
-    overflow: hidden;
-    background-color: transparent;
-    position: fixed;
-    top: 0;
-}
-#navi li a {
-    display: block;
-    color: white;
-    font-family: 'Mali';
-    text-align: right;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-#navi li a:hover {
-    background-color: #006699;
-}
-#navi2 ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;	
-    overflow: hidden;
-    background-color: #006699;
-    position:relative;
-    width:100%;
-    text-align:center;
-}
-#navi2 li {
-       float: left;
-}
-#navi2 li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-#navi2 li a:hover {
-    background-color: #000080;
-}
+
+
 #firsth1  {
     font-family: 'Mali';
     color: #00008B;
