@@ -28,6 +28,7 @@ font-family: 'Chewy';
     position:fixed;
     overflow:hidden;
     background-color:transparent;
+    top: 0;
 }
 #navi ul {
     clear:left;
@@ -36,7 +37,6 @@ font-family: 'Chewy';
     margin: 0;
     padding: 0;	
     background-color:transparent;
-    top: 0;
     position:relative;
     left:50%;
     text-align:center;
@@ -58,6 +58,29 @@ font-family: 'Chewy';
 }
 #navi ul li a:hover {
     background-color: #006699;
+}
+#navi2 ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;	
+    overflow: hidden;
+    background-color: #006699;
+    position:relative;
+    left:50%;
+    text-align:center;
+}
+#navi2 li {
+       float: left;
+}
+#navi2 li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+#navi2 li a:hover {
+    background-color: #000080;
 }
 #firsth1  {
     font-family: 'Mali';
