@@ -47,6 +47,46 @@ font-family: 'Chewy';
 #navi li a:hover {
     background-color: #000080;
 }
+#navi2 {
+   float:left;
+   width:100%;
+   background:transparent;
+   overflow:hidden;
+   position:relative;
+}
+#navi2 ul {
+   clear:left;
+   float:left;
+   list-style:none;
+   margin:0;
+   padding:0;
+   position:relative;
+   left:50%;
+   text-align:center;
+}
+#navi2 ul li {
+   display:block;
+   float:left;
+   list-style:none;
+   margin:0;
+   padding:0;
+   position:relative;
+   right:50%;
+}
+#navi2 ul li a {
+   display:block;
+   margin:0 0 0 1px;
+   padding:3px 10px;
+   background:#ddd;
+   color:#000;
+   text-decoration:none;
+   line-height:1.3em;
+}
+#navi2 ul li a:hover {
+   background:#000080;
+   color:#fff;
+}
+
 #firsth1  {
     font-family: 'Mali';
     color: #00008B;
