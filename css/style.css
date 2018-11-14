@@ -33,9 +33,21 @@ font-family: 'Chewy';
     padding: 0;	
     overflow: hidden;
     background-color: #006699;
+    width:100%
+    clear:left;
+    float:left;
+    position:relative;
+    left:50%;
+    text-align:center;    
 }
 #navi li {
-       float: left;
+    float: left;
+    display:block;
+    list-style:none;
+    margin:0;
+    padding:0;
+    position:relative;
+    right:50%;
 }
 #navi li a {
     display: block;
